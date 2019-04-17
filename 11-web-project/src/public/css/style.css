@@ -1,0 +1,14 @@
+body {
+    margin-bottom: 100px;
+}
+
+.article-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.article-list .card{
+    margin-top: 20px;
+    min-width: 200px
+}
